@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Why C++?}{2}{section.1}%
+\contentsline {section}{\numberline {2}C++ for competitive programming}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Basic syntax}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Important Data types}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Important functions}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Competitive programming conventions}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Problem Conventions}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Code Conventions}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Headers}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Constraints}{10}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Global variables}{11}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Fast I/O}{11}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Typedefs}{11}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Macros}{12}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Templates}{12}{subsubsection.3.2.7}%
+\contentsline {section}{\numberline {4}Practice makes perfect}{13}{section.4}%
